@@ -5,12 +5,13 @@
 - **Team Members:** Alex Archer
 
 - **Description:**
-    My project aims to help you navigate your chosen career path by uncovering valuable insights from the LinkedIn job market. By discovering industry hotspots, popular job titles by industry, and trending skills I intend to help you plan for success.
+    My project aims to help you navigate your chosen career path by uncovering valuable insights from the LinkedIn job market. By discovering industry hotspots, popular skillsets by industry, and trending skills I intend to help you plan for success.
 
 - **Questions to Answer:**
-    - In what regions are jobs in specific industries booming?
-    - What are the most popular jobs within that industry by region?
-    - Which skills are in high demand within that industry?
+**Based On Your Industry...**
+    - In what regions and cities are jobs booming?
+    - What are the best skill sets to have?
+    - Which skills are in high demand?
 
 - **Prior Work:**
     - Salience and Market-aware Skill Extraction for Job Targeting: https://core.ac.uk/works/86159256
@@ -20,19 +21,8 @@
     - **URL:** https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024?select=linkedin_job_postings.csv
     - **Status:** Downloaded locally on my machine
 
-- **Proposed Work:**
+- **Results in the Context of the Technology Industry**
 
-    - Data Cleaning:
-        - Remove job listings with incomplete information or haven’t successfully extracted summaries or skills.
-        - Validate a sample of job postings to manually ensure the integrity of the data, disregarding inaccurate entries.
-
-    - Data Processing:
-        - Extract and categorize job titles into broad industry categories and create a ‘industry’ column.
-        - Link job postings to their corresponding skills lists
-
-    - Analysis:
-        - Utilize time-series analysis to visualize 2024 job market trends
-        - Apply clustering techniques (potentialy k-means) to group group similar job titles and skills within industries to identify skill demand patterns
 
 - **Tools:**
     - Python
