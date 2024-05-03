@@ -40,5 +40,4 @@ My project aims to help you navigate your chosen career path by uncovering valua
 The Insights Discovered above has numerous real-world applications for job-seekers and educational institutions alike. As a Software Engineer, I now have a candid insight into some of the most important determining factors for career success such as the most in-demand skills(`SQL`, `Python`, `Java`, etc.), in addition to the most in-demand skill sets (`(SQL, Python)`, `(AWS, Kubernetes, Docker)`, etc.). As a result of these insights I Also have a nuanced understanding of where I can expect to find work. Examining the aational scale industry boom map, it's clear that tech jobs are concentrated in the east and west. California appears to be the darkest, so it is chosen as the subject for the state-level analysis, Where I can clearly see that the most opportunities are in `SanFrancisco`, `San Diego`, `San Jose`, `Los Angeles`, and `Irvine`. 
 
 ## Link to Video:
-
-## Link to Final Paper:
+https://www.youtube.com/watch?v=SaSj2wXWLgM
